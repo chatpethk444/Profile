@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chatpeth Karisuk</h1>
+<h1 align="center">Hi , I'm Chatpeth Karisuk</h1>
 <h3 align="center">Computer Engineering Student A motivated 4th-year seeking an Co-operative / internship in Software Testing / QA, IT Support, or related fields. Brings hands-on</h3>
 
 <h3 align="left">Connect with me:</h3>
